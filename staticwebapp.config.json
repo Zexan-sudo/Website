@@ -1,7 +1,9 @@
 {
     "routes": [
         {
-            "route": "/*"
+            "route": "/ramenReview/index.html",
+            "redirect": "/ramenReview/",
+            "statusCode": 301
         }
     ]
 }
