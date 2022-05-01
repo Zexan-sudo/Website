@@ -1,0 +1,8 @@
+{
+    "routes": [
+        {
+            "route": "/html/ramenBlog*",
+            "rewrite": "/html/ramenBlog"
+        }
+    ]
+}
