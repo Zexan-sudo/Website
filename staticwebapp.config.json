@@ -6,27 +6,27 @@
             "statusCode": 301
         },
         {
-            "route": "/RamenReview/index.html",
+            "route": "/RamenReview*",
             "redirect": "/RamenReview",
             "statusCode": 301
         },
         {
-            "route": "/About/index.html",
+            "route": "/About*",
             "redirect": "/About",
             "statusCode": 301
         },
         {
-            "route": "/Experience/index.html",
+            "route": "/Experience*",
             "redirect": "/Experience",
             "statusCode": 301
         },
         {
-            "route": "/Projects/index.html",
+            "route": "/Projects*",
             "redirect": "/Projects",
             "statusCode": 301
         },
         {
-            "route": "/Contact/index.html",
+            "route": "/Contact*",
             "redirect": "/Contact",
             "statusCode": 301
         }
