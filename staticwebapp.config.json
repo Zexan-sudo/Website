@@ -7,27 +7,27 @@
         },
         {
             "route": "/RamenReview/index.html",
-            "redirect": "/RamenReview/",
+            "redirect": "/RamenReview",
             "statusCode": 301
         },
         {
             "route": "/About/index.html",
-            "redirect": "/About/",
+            "redirect": "/About",
             "statusCode": 301
         },
         {
             "route": "/Experience/index.html",
-            "redirect": "/Experience/",
+            "redirect": "/Experience",
             "statusCode": 301
         },
         {
             "route": "/Projects/index.html",
-            "redirect": "/Projects/",
+            "redirect": "/Projects",
             "statusCode": 301
         },
         {
             "route": "/Contact/index.html",
-            "redirect": "/Contact/",
+            "redirect": "/Contact",
             "statusCode": 301
         }
     ]
